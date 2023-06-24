@@ -6,12 +6,6 @@ This repository provides an AI/ML-based solution for addressing various healthca
 ## Features
 - **Disease Prediction:** Predicts the likelihood of various diseases based on patient data, enabling early detection and intervention.
 - **Medical Imaging Analysis:** Utilizes deep learning algorithms to analyze medical images, aiding in the diagnosis of diseases such as cancer, cardiovascular conditions, and more.
-- **Health Monitoring:** Monitors and analyzes health data from wearable devices and sensors, providing real-time insights into patient well-being.
-- **Natural Language Processing:** Applies natural language processing techniques to extract valuable information from medical literature, electronic health records, and patient notes.
-- **Drug Discovery:** Utilizes machine learning algorithms to expedite the drug discovery process, reducing time and costs associated with research and development.
-- **Fraud Detection:** Detects fraudulent activities in healthcare billing and insurance claims, helping to reduce financial losses and protect against fraudulent practices.
-- **Resource Optimization:** Optimizes healthcare resource allocation, such as staff scheduling, equipment utilization, and bed management, for efficient healthcare operations.
-
 ## Repository Structure
 The repository is organized as follows:
 
